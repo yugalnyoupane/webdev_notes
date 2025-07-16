@@ -5,3 +5,7 @@ Welcome to a friendly notes that I wrote, which guides your through the basics t
 ### Points to remember:
 1. <u>Spaced repetition:</u>
     Spaced repetition is a learning technique where you review information at increasing intervals over time. The goal is to remember things long-term instead of forgetting them quickly.
+2. Interleaving Practice:
+   Practise with small concepts
+3. Active Recall:
+   Quiz, practice and revising will efficient your progress.
