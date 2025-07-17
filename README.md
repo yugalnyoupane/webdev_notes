@@ -17,3 +17,9 @@ Tip number 2: routine is your friend. If you make a habit of waking up 30 minute
 Tip number 3: Use the Pomodoro technique. Pomodoro is the Italian word for tomato. In Italy they have these tomato shaped clocks that you set for 25 minutes.
 
 Final tip: remember to get plenty of sleep. You'll learn best when you're at your best. Sleep plays a vital role in how your brain learns. I encourage you to try to sleep at least 8 hours each night.
+
+## Table of Content:
+# 📚 Table of Contents
+
+1. [Introduction](./notes/01-introduction.md)
+2. [HTML Basics](./notes/02-html-basics.md)
