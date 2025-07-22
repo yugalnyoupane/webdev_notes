@@ -21,8 +21,8 @@ Final tip: remember to get plenty of sleep. You'll learn best when you're at you
 ## Table of Content:
 # 📚 Table of Contents
 
-1. [Introduction](./notes/01-introduction.md)
-2. [HTML Basics](./notes/02-html-basics.md)
-3. [CSS](./notes/03-css.md)
-4. [Javascript](./notes/04)
+1. [Introduction](./notes/01-Introduction)
+2. [HTML](./notes/02-HTML)
+3. [CSS](./notes/03-CSS)
+4. [Javascript](./notes/04-JavaScript)
 5. 
