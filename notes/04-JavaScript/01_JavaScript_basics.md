@@ -78,15 +78,32 @@ Javascript adds interactivity and dynamic functionality to the webpage.
      
      *String is immutable but why did you add it here*
      Good point, it is immutable in the sense that entirely new values cannot be assigned but we can only append it by methods like concatenation.
-  3. Using `concat' method: There is difference between method, functions and objects which we will study later.
+  2. Using `concat' method: There is difference between method, functions and objects which we will study later.
      
      ```js
      let str1 = 'Yugal';
      let str2 = 'WebDev';
      let result = str1.concat(' ',str2);
      ```
-
      
+## Console.log:
+   It is used to log data and display the output in the browser console. It is commonly used by developers for debugging and inspecting values or expressions in their code during development. 
+   ```js
+   let name = "Yugal is doing js";
+   console.log(name);
+   ```
+
+## Roles of semicolons in JS:
+   Just as a period (.) marks the end of a sentence in English, a semicolon signifies the end of an executable line of code. This allows the JavaScript engine to distinguish between separate commands. But, without considering this much in mind , since JS has Automatic Semicolon Insertion (ASI) , it is not compulsion to use as in C, C++ and Java. 
+*But explicitly using them improves code clarity and helps prevent erros that may arise from unexpected ASI behaviot*
+
+## Comments in JavaScript:
+It is for your own use, so that you can re-read the code, or add note to it without the JS engine recognizing it.
+```js
+//This is a comment
+```
+
+   
      
    
    
