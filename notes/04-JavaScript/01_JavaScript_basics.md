@@ -103,6 +103,26 @@ It is for your own use, so that you can re-read the code, or add note to it with
 //This is a comment
 ```
 
+## Dynamic Typing:
+
+   JS is dynamically typed language unlike C, C++ which is statically typed language. 
+   ```js
+   let data = 100;
+   data = "New data";
+   ```
+   This means that you didn't properly specify the type of data included also you could reassign with an entirely new data type. 
+
+## typeof 
+   `typeof` lets you see the data type of a variable or value. 
+   ```js
+   let num = 42;
+   console.log(typeof num); // "number"
+   ```
+   *When the language was first implemented, values like null were represented as a special type of object, leading to this unexpected result.*
+   ```js
+   let exampleVariable = null;
+   console.log(typeof exampleVariable); // "object"
+   ```
    
      
    
